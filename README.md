@@ -1,12 +1,11 @@
 # m4a_to_korean_txt
 영어음성 m4a파일을 한국어 txt로 바꾸어 주는 무언가
 
-<pre><code>
-
-  pip install -U openai-whisper
+<pre><code> 
+pip install -U openai-whisper
+pip install -U openai-whisper
 </code></pre>
 
-pip install -U openai-whisper
 그 후 scoop 인터넷에서 설치 후
 scoop install ffmpeg
 pip install -q -U google-genai
