@@ -11,12 +11,12 @@ pip install -U openai-whisper
 [scoop](https://scoop.sh/)
 해당 링크 들어간 후 명령어 복붙.
 
-4. install ffmpeg
+4. Install ffmpeg
 <pre><code> 
 scoop install ffmpeg
 </code></pre>
 
-4.install google Gemini api
+4.Install google Gemini api
 <pre><code>
 pip install -q -U google-genai
 </code></pre>
