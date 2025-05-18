@@ -8,6 +8,7 @@ pip install -U openai-whisper
 </code></pre>
 
 2. Install scoop
+
 [scoop](https://scoop.sh/)
 해당 링크 들어간 후 명령어 복붙.
 
