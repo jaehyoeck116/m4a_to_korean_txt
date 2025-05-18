@@ -58,7 +58,7 @@ def translate_file(api_key, input_file, output_file, progress_var=None, progress
                         contents="뒤 문장들 한국어로 번역해줘 " + line
                     )
                     b.write(response.text + "\n\n")
-                    #time.sleep(5)
+                    time.sleep(5)
 
                 # 번역 진행률 (50~100%)
                 if progress_var and progress_bar:
