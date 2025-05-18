@@ -8,11 +8,10 @@ pip install -U openai-whisper
 </code></pre>
 
 2. Install scoop
+   
+해당 [링크](https://scoop.sh/) 들어간 후 명령어 복붙.
 
-[scoop](https://scoop.sh/)
-해당 링크 들어간 후 명령어 복붙.
-
-4. Install ffmpeg
+3. Install ffmpeg
 <pre><code> 
 scoop install ffmpeg
 </code></pre>
